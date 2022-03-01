@@ -12,3 +12,8 @@ Contact me:  [Telegram](https://t.me/w1zzyl)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1zzyl&hide=php&theme=tokyonight" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=w1zzyl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w1zzyl&theme=highcontrast)](https://git.io/streak-stats)
+
+
+![GitHub metrics](https://metrics.lecoq.io/w1zzyl)  
